@@ -7,6 +7,7 @@
   "author": "Nebiyu",
   "license": "MIT",
   "dependencies": {
+    "algosdk": "^2.1.0",
     "bcrypt": "^5.1.0",
     "express": "^4.18.2",
     "mongoose": "^6.9.0",
