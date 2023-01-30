@@ -1,0 +1,12 @@
+{
+  "name": "algo-backend",
+  "version": "1.0.0",
+  "description": "backend app for algorand bc imp",
+  "main": "app.js",
+  "repository": "https://github.com/nebasam/algorand-challenge",
+  "author": "Nebiyu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
